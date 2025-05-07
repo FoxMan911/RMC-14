@@ -1,14 +1,14 @@
 ### Connecting dialog when you start up the game
 
-connecting-title = Space Station 14
-connecting-exit = Exit
-connecting-retry = Retry
+connecting-title = Космічна Сатнція 14
+connecting-exit = Вийти
+connecting-retry = Повторити
 connecting-reconnect = Reconnect
-connecting-copy = Copy Message
+connecting-copy = Скопіювати повідомлення
 connecting-redial = Relaunch
 connecting-redial-wait = Please wait: { TOSTRING($time, "G3") }
-connecting-in-progress = Connecting to server...
-connecting-disconnected = Disconnected from server:
+connecting-in-progress = Приєднання до сервера...
+connecting-disconnected = Відключення:
 connecting-tip = Don't die!
 connecting-window-tip = Tip { $numberTip }
 connecting-version = ver 0.1
@@ -17,5 +17,5 @@ connecting-fail-reason = Failed to connect to server:
 connecting-state-NotConnecting = Not connecting
 connecting-state-ResolvingHost = Resolving host
 connecting-state-EstablishingConnection = Establishing connection
-connecting-state-Handshake = Handshake
-connecting-state-Connected = Connected
+connecting-state-Handshake = Рукостискання
+connecting-state-Connected = З'єднання
